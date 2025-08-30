@@ -1,4 +1,4 @@
-✨ Hi, I’m Urvi Tyagi 👋
+✨ Hi, I’m Urvi Tyagi.
 I’m a B.Tech student in Artificial Intelligence & Machine Learning (3rd year), currently exploring the exciting world of Python, Machine Learning, and Natural Language Processing.
 
 I’m still at the beginner stage of my professional journey, but I love building small projects,I want to create something more impactful, practical, and impressive that can help me showcase my skills and sharing my learning process here on GitHub.
