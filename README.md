@@ -3,7 +3,7 @@ I’m a B.Tech student in Artificial Intelligence & Machine Learning (3rd year),
 
 I’m still at the beginner stage of my professional journey, but I love building small projects,I want to create something more impactful, practical, and impressive that can help me showcase my skills and sharing my learning process here on GitHub.
 
-🔧 What I’m Learning
+🔧 What I’m Learning:
 
 📌 Python programming & data handling
 
