@@ -3,7 +3,7 @@
 🎓 3rd-year B.Tech student in AI & ML
 💡 Exploring Python, Machine Learning, & NLP
 
-🔧 What I’m Learning
+🔧 What I’m Learning:
 
 🐍 Python & data handling
 
@@ -13,15 +13,13 @@
 
 ☁️ Cloud & AI tools through courses & internships
 
-🌱 What You’ll Find Here
+🌱 What You’ll Find Here:
 
 Beginner-friendly Python scripts
 
 Mini ML & NLP projects
 
-Notes & experiments from courses/internships
-
-🎯 Goal
+🎯 Goal:
 
 To become a skilled NLP Engineer creating practical, responsible, and impactful AI solutions.
 
