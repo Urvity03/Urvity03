@@ -1,4 +1,4 @@
-Hi, I’m Urvi Tyagi
+# **👋 Hi, I’m Urvi Tyagi**
 
 🎓 3rd-year B.Tech student in AI & ML
 💡 Exploring Python, Machine Learning, & NLP
