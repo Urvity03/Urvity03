@@ -1,34 +1,29 @@
-✨ Hi, I’m Urvi Tyagi.
-I’m a B.Tech student in Artificial Intelligence & Machine Learning (3rd year), currently exploring the exciting world of Python, Machine Learning, and Natural Language Processing.
+Hi, I’m Urvi Tyagi
 
-I’m still at the beginner stage of my professional journey, but I love building small projects,I want to create something more impactful, practical, and impressive that can help me showcase my skills and sharing my learning process here on GitHub.
+🎓 3rd-year B.Tech student in AI & ML
+💡 Exploring Python, Machine Learning, & NLP
 
-🔧 What I’m Learning:
+🔧 What I’m Learning
 
-📌 Python programming & data handling
+🐍 Python & data handling
 
-📌 Machine Learning basics (classification, prediction)
+🤖 ML basics (classification, prediction)
 
-📌 Intro to NLP (text preprocessing, sentiment analysis)
+💬 NLP (text preprocessing, sentiment analysis)
 
-📌 Cloud & AI tools through certifications and internships
+☁️ Cloud & AI tools through courses & internships
 
-🌱 My Approach
+🌱 What You’ll Find Here
 
-I believe in learning by doing — so my repos are a mix of:
+Beginner-friendly Python scripts
 
-Beginner-friendly Python scripts 🐍
+Mini ML & NLP projects
 
-Mini projects to strengthen concepts
-
-Early experiments in ML & NLP
-
-Notes & practice code from courses and internships
+Notes & experiments from courses/internships
 
 🎯 Goal
 
-To grow into a skilled NLP Engineer who can design AI solutions that are practical, responsible, and impactful.
-
+To become a skilled NLP Engineer creating practical, responsible, and impactful AI solutions.
 
 
 ## 🌐 Socials:
