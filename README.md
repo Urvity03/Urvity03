@@ -1,23 +1,9 @@
 # **👋 Hi, I’m Urvi Tyagi**
+AI & ML Undergraduate | Aspiring ML Engineer
 
-🎓 3rd-year B.Tech student in AI & ML
-💡 Exploring Python, Machine Learning, & NLP
+Building intelligent applications with Python, Machine Learning, Deep Learning, and NLP.
 
-🔧 What I’m Learning:
-
-🐍 Python & data handling
-
-🤖 ML basics (classification, prediction)
-
-💬 NLP (text preprocessing, sentiment analysis)
-
-☁️ Cloud & AI tools through courses & internships
-
-🌱 What You’ll Find Here:
-
-Beginner-friendly Python scripts
-
-Mini ML & NLP projects
+Exploring ML Engineering, LLMs, and real-world AI solutions.
 
 🎯 Goal:
 
