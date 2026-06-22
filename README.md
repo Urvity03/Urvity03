@@ -1,4 +1,4 @@
-# ** Hi, I’m Urvi Tyagi**
+# Hi, I’m Urvi Tyagi
 AI & ML Undergraduate | Aspiring ML Engineer
 
 Building intelligent applications with Python, Machine Learning, Deep Learning, and NLP.
