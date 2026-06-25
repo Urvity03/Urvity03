@@ -91,11 +91,12 @@ Contributing to open-source projects through bug fixes, documentation improvemen
 
 ## 🎓 Certifications
 
-* IBM Machine Learning with Python
-* Google Cloud GenAI Courses
-* Google Cloud Vertex AI Learning Paths
-* IBM Project-Based Learning Internship
-
+IBM Machine Learning Badge
+*Google Cloud Prompt Design in Vertex AI 
+*Gemini for Data Scientists Badge 
+*AWS Introduction to Generative AI 
+*Cognitive Class Machine Learning Certificate
+*Codédex Python Certificate
 ---
 
 ## 🔥 Current Focus
