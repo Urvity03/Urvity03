@@ -4,8 +4,7 @@
 
 ### AI & ML Undergraduate | Aspiring Machine Learning Engineer focused on NLP
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+Engineer;Natural+Language+Processing;Deep+Learning+%7C+Computer+Vision;Open+Source+Contributor)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+%7C+NLP+%7C+Generative+AI;Deep+Learning+%7C+Computer+Vision;Open+Source+Contributor;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
 <br>
 
 <a href="https://github.com/Urvity03">
@@ -30,9 +29,7 @@ I'm a final-year **B.Tech Artificial Intelligence & Machine Learning** undergrad
 
 I'm actively contributing to open source while building real-world AI applications and continuously expanding my knowledge in Artificial Intelligence.
 
-My goal is to become a **Machine Learning Engineer** specializing in NLP and Generative AI.
-
----
+Aspiring Machine Learning Engineer focused on Natural Language Processing and Generative AI.
 
 ---
 
@@ -117,7 +114,6 @@ My goal is to become a **Machine Learning Engineer** specializing in NLP and Gen
 ---
 
 ## Current Focus
-
 ```python
 class UrviTyagi:
 
@@ -129,7 +125,6 @@ class UrviTyagi:
     ]
 
     goal = "Machine Learning Engineer focused on NLP"
-  
 ```
 
 ---
