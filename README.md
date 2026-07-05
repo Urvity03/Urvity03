@@ -15,9 +15,6 @@
 <img src="https://img.shields.io/github/stars/Urvity03?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
-<a href="https://komarev.com/ghpvc/?username=Urvity03">
-<img src="https://komarev.com/ghpvc/?username=Urvity03&style=for-the-badge"/>
-</a>
 
 </div>
 
