@@ -66,10 +66,10 @@ Aspiring Machine Learning Engineer focused on Natural Language Processing and Ge
 ## GitHub Analytics & Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Urvity03&layout=compact&theme=tokyonight"/>
 
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Urvity03&layout=compact&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Urvity03&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Urvity03&theme=tokyonight" />
 
 </div>
 
