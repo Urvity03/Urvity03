@@ -115,6 +115,7 @@ class UrviTyagi:
 
     learning = [
         "Machine Learning",
+        "Artificial intelligence",
         "Natural Language Processing",
         "Generative AI",
         "Open Source"
