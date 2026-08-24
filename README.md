@@ -106,6 +106,7 @@ Aspiring Machine Learning Engineer focused on Natural Language Processing and Ge
 - AWS Introduction to Generative AI
 - Cognitive Class Machine Learning
 - Codédex Python
+- EDA by FutureSkills Prime (NASSCOM & MeitY) 
 
 ---
 
