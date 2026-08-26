@@ -119,7 +119,7 @@ class UrviTyagi:
         "Artificial intelligence",
         "Natural Language Processing",
         "Generative AI",
-        "Open Source"
+        
     ]
 
     goal = "Machine Learning Engineer focused on NLP"
