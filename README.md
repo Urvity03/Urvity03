@@ -151,6 +151,6 @@ class UrviTyagi:
 
 ### Thanks for visiting!
 
-*Building intelligent systems through Machine Learning, Open Source, and continuous learning.*
+*"Building intelligent systems through Machine Learning, Open Source, and continuous learning."*
 
 </div>
