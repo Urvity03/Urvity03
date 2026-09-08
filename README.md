@@ -4,8 +4,13 @@
 
 ### AI & ML Undergraduate | Aspiring Machine Learning Engineer focused on NLP
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+%7C+NLP+%7C+Generative+AI;Deep+Learning+%7C+Computer+Vision;Open+Source+Contributor;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1200\&center=true\&vCenter=true\&width=750\&lines=Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+%7C+NLP+%7C+Generative+AI;Deep+Learning+%7C+Computer+Vision;Open+Source+Contributor;Building+Intelligent+AI+Systems)](https://git.io/typing-svg)
+
 <br>
+
+<a href="https://portfolio-mu-rouge-31.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Urvity03">
 <img src="https://img.shields.io/github/followers/Urvity03?style=for-the-badge"/>
@@ -15,18 +20,61 @@
 <img src="https://img.shields.io/github/stars/Urvity03?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
-
 </div>
 
 ---
 
 ## About Me
 
-I'm a final-year **B.Tech Artificial Intelligence & Machine Learning** undergraduate passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+I'm a final-year **B.Tech Artificial Intelligence & Machine Learning** undergraduate passionate about building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI**.
 
-I'm actively contributing to open source while building real-world AI applications and continuously expanding my knowledge in Artificial Intelligence.
+I enjoy working on real-world AI applications, contributing to open source, and continuously expanding my understanding of intelligent systems.
 
-Aspiring Machine Learning Engineer focused on Natural Language Processing and Generative AI.
+My goal is to grow as a **Machine Learning Engineer with a focus on NLP and Generative AI**.
+
+---
+
+## Portfolio
+
+<div align="center">
+
+### Explore my work, projects, skills & journey
+
+<a href="https://portfolio-mu-rouge-31.vercel.app/">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Open Source
+
+I actively contribute to **open-source projects**, collaborate with developers, and enjoy working on practical tools involving AI, developer productivity, and software engineering.
+
+### TermStory
+
+<a href="https://github.com/bitflicker64/Termstory">
+<img src="https://img.shields.io/badge/TermStory-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**TermStory** is an open-source personal developer memory engine that transforms terminal history into a searchable, AI-narrated timeline of development activity.
+
+It includes features such as:
+
+* Shell history parsing and session grouping
+* Project attribution and per-command context
+* Forensic timestamp recovery using Git and filesystem information
+* AI-powered summaries and natural-language querying
+* SQLite-based storage and full-text search
+* Privacy-focused sanitisation of credentials and sensitive terminal data
+* Interactive terminal-based dashboard
+
+**Tech:** Python · SQLite · Textual · Git · LLM APIs · CLI
+
+<a href="https://github.com/bitflicker64/Termstory">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -92,34 +140,35 @@ Aspiring Machine Learning Engineer focused on Natural Language Processing and Ge
 </div>
 
 ---
+
 ## Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urvity03&theme=tokyo-night)](https://github.com/Urvity03)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urvity03\&theme=tokyo-night)](https://github.com/Urvity03)
 
 ---
 
 ## Certifications
 
-- IBM Machine Learning
-- Google Cloud Prompt Design in Vertex AI
-- Gemini for Data Scientists
-- AWS Introduction to Generative AI
-- Cognitive Class Machine Learning
-- Codédex Python
-- EDA by FutureSkills Prime (NASSCOM & MeitY) 
+* IBM Machine Learning
+* Google Cloud Prompt Design in Vertex AI
+* Gemini for Data Scientists
+* AWS Introduction to Generative AI
+* Cognitive Class Machine Learning
+* Codédex Python
+* EDA by FutureSkills Prime (NASSCOM & MeitY)
 
 ---
 
 ## Current Focus
+
 ```python
 class UrviTyagi:
 
     learning = [
         "Machine Learning",
-        "Artificial intelligence",
+        "Artificial Intelligence",
         "Natural Language Processing",
         "Generative AI",
-        
     ]
 
     goal = "Machine Learning Engineer focused on NLP"
@@ -130,6 +179,10 @@ class UrviTyagi:
 ## Connect
 
 <div align="center">
+
+<a href="https://portfolio-mu-rouge-31.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/urvi-tyagi026">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
