@@ -143,7 +143,15 @@ It includes features such as:
 
 ## Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urvity03\&theme=tokyo-night)](https://github.com/Urvity03)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Urvity03/Urvity03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Urvity03/Urvity03/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Urvity03/Urvity03/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
