@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Urvi 
+# Hi, I'm Urvi Tyagi
 
 ### AI & ML Undergraduate | Aspiring Machine Learning Engineer focused on NLP
 
